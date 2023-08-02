@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dshetty3.github.io/DishaShetty/](https://dshetty3.github.io/DishaShetty/)
 
-- 💬 Ask me about **React js, Vue js, Javascript, jQuery, HTML5, CSS**
+- 💬 Ask me about **React js, Vue js, ,Java, Javascript, jQuery, HTML5, CSS**
 
 - 📫 How to reach me **dshetty3@binghamton.edu**
 
