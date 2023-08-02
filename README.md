@@ -1,3 +1,4 @@
+![logo](https://github.com/dshetty3/dshetty3/blob/main/Github%20Banner.png)
 <h1 align="center">Hi There 👋, I'm Disha Shetty</h1>
 <h3 align="center">A passionate frontend developer currently pursuing Masters degree in Computer Science.</h3>
 
