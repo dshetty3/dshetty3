@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dshetty3&label=Profile%20views&color=0e75b6&style=flat" alt="dshetty3" /> </p>
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **React, Python**
 
 - 👨‍💻 All of my projects are available at [https://dshetty3.github.io/DishaShetty/](https://dshetty3.github.io/DishaShetty/)
 
