@@ -21,7 +21,7 @@
 <a href="https://instagram.com/dishashettayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishashettayy" height="30" width="40" /></a>
 </p>
 
-### Stats  
+### Stats for this account: 
 <p align="center">
 <a href="https://github.com/dshetty3/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=dshetty3&show_icons=true&theme=radical" />
