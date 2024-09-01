@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Python, Angular**
 
-- 👨‍💻 All of my projects are available at [https://dshetty3.github.io/Disha-Shetty/](https://dshetty3.github.io/DishaShetty/)
+- 👨‍💻 All of my projects are available at [https://dshetty3.github.io/Disha-Shetty/](https://dshetty3.github.io/Disha-Shetty/)
 
 - 💬 Ask me about **React js, Vue js, Java, Javascript, jQuery, HTML5, CSS**
 
