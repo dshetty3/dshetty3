@@ -86,7 +86,7 @@
 
 ### Leetcode Stats for this account: 
 <p align="center">
-   <img align="center" src="![LeetCode Stats](https://leetcard.jacoblin.cool/dshetty3?theme=dark&font=IBM%20Plex%20Serif)"/>
+   <img align="center" src="https://leetcard.jacoblin.cool/dshetty3?theme=dark&font=IBM%20Plex%20Serif"/>
 
 </p>
 
